@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#">
-    <img width="100" src="https://lh3.googleusercontent.com/a/ACg8ocItyhOU2lcU1z_dpxMC6gk3PfpXTQC4XwCfSzfNvcEB0qjaL_fx=s432-c-no" alt="logo" />
+    <img width="100" src="blob:https://mega.nz/83cfb850-2c0e-4cd8-82c8-17066fe837c0" alt="logo" />
   </a>
 </p>
 
