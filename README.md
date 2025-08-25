@@ -29,13 +29,7 @@
 I'm an **ERP Consultant**, **Database Engineer** and **Web Developer** who loves solving problems through technology.  
 I have solid experience with **ERP systems (SAP, Sage X3, Silwane)**, **SQL/Databases**, and **Web Development** with modern frameworks.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziritarek19-hue&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of ERP & Web Tech 🚀</small>
-  <br />
-  <br />
-</div>
+
 
 ---
 
